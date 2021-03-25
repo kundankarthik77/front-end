@@ -1,0 +1,19 @@
+html {
+  /* 62.5 * 16 px i.e 10px */
+  font-size: 62.5%;
+}
+
+body {
+  /* margin: 10px; */
+}
+
+.box {
+  /* width: 50vw;
+  height: 100vh; */
+  /* 10x font size of the current element */
+  /* 10 * 16px (font-size default in browser) = 160 px */
+  width: 10em;
+  height: 100vh;
+  background-color: gold;
+  border-top: 3px solid orange;
+}

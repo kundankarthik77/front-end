@@ -1,0 +1,12 @@
+{
+  "name": "es6-toolings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --presets env index.js -o build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

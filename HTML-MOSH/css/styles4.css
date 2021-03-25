@@ -1,0 +1,24 @@
+.boxes {
+  border: 3px solid lightgrey;
+}
+
+.box {
+  width: 5rem;
+  height: 5rem;
+}
+
+.box-one {
+  background-color: rgb(163, 95, 82);
+}
+
+.box-two {
+  background-color: greenyellow;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 99999;
+}
+
+.box-three {
+  background-color: dodgerblue;
+}
